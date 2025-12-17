@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+nltk
+python-docx
+pdfplumber
+pandas
